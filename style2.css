@@ -36,12 +36,12 @@ table {
     background: -moz-linear-gradient(top, #fbfbfb, #fafafa);
   }
   table a {
-      text-align: center;
+  text-align: center;
   }
   .bg-red{
 	background-color: #f00;
 	color: #fff;
-    border: 1px solid #f00;
+  border: 1px solid #f00;
   }
   .border-green{
 	color: #55a8fd;
@@ -57,5 +57,6 @@ table {
 }
 .tambah {
     color: green;
-	border: 1px solid green;
+  border: 1px solid green;
+  font-size: 10px;
 }
